@@ -1,0 +1,12 @@
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\dao\imp\MonumentDaoImp.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\dao\imp\RegionDaoImp.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\services\IMonumentService.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\dao\IRegionDao.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\services\imp\RegionServiceImp.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\entities\Region.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\entities\Monument.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\dao\IMonumentDao.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\services\imp\MonumentServiceImp.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\controllers\MonumentController.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\controllers\RegionController.java
+C:\dev_env\workspace\spring\gestion-patrimoine\src\main\java\com\services\IRegionService.java

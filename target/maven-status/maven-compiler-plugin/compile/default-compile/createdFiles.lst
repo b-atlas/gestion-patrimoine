@@ -1,0 +1,12 @@
+com\entities\Region.class
+com\controllers\RegionController.class
+com\dao\imp\RegionDaoImp.class
+com\services\IMonumentService.class
+com\services\IRegionService.class
+com\entities\Monument.class
+com\controllers\MonumentController.class
+com\dao\IRegionDao.class
+com\dao\IMonumentDao.class
+com\services\imp\RegionServiceImp.class
+com\dao\imp\MonumentDaoImp.class
+com\services\imp\MonumentServiceImp.class
